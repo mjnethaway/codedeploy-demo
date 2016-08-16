@@ -41,6 +41,6 @@
       }
        ?>
 
-    <h1>App updated. Version 1</h1>
+    <h1>App updated. Version 1.1</h1>
   </body>
 </html>
