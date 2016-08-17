@@ -1,10 +1,10 @@
 <html>
   <head>
-    <title>AWS CloudFormation PHP Sample</title>
+    <title>PHP Example</title>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   </head>
   <body>
-    <h1>Welcome to the AWS CloudFormation PHP Sample</h1>
+    <h1>Deployed by AWS CodeDeploy</h1>
     <p/>
     <?php
       // Print out the current data and time
@@ -41,6 +41,6 @@
       }
        ?>
 
-    <h1>App updated. Version 1.4 - hey gene</h1>
+    <h1>App updated. Version 1.4</h1>
   </body>
 </html>
